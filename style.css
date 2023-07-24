@@ -1,0 +1,31 @@
+div{
+    border: 1px solid black;
+    height: 100px;
+    width: 80%;
+    border-radius: 10px;
+    color: aliceblue;
+}
+div:hover{
+    box-shadow: 10px 10px 5px rgb(159, 160, 160);
+   color: black;
+}
+
+    
+  
+section{
+    background-color: rgb(0, 0, 0);
+    width: 60%;
+    height: 80px;
+    border-radius: 10px;
+    margin-top: 62px;
+}
+section:hover{
+    box-shadow: 10px 10px 5px rgb(159, 160, 160);
+}
+p{
+    margin-right: -40px;
+    font-size: 30px;
+    float: right;
+   
+}
+
