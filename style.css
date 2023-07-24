@@ -6,21 +6,25 @@ div{
     color: aliceblue;
 }
 div:hover{
-    box-shadow: 10px 10px 5px rgb(159, 160, 160);
+    
    color: black;
+  
+   box-shadow: 10px 10px 5px rgb(102, 255, 0),inset 0 0 10px 0 rgb(255, 3, 3);
 }
 
     
   
 section{
+    float: left;
+    margin-top: -45px;
     background-color: rgb(0, 0, 0);
     width: 60%;
     height: 80px;
     border-radius: 10px;
-    margin-top: 62px;
+   
 }
 section:hover{
-    box-shadow: 10px 10px 5px rgb(159, 160, 160);
+    box-shadow: 10px 10px 5px rgb(159, 160, 160),inset 0 0 10px 0 rgb(255, 255, 255);
 }
 p{
     margin-right: -40px;
